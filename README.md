@@ -16,3 +16,10 @@ In another terminal, open project root directory
 ```
 ./gradlew bootRun
 ```
+
+For Release
+-----------
+```
+./gradlew build
+```
+
